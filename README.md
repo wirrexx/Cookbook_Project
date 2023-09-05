@@ -1,3 +1,9 @@
 # Cookbook_Project
 
-Whatsup Roxy
+ # Favorite Fruits
+    - Apples
+    - Bananars
+    - Cherries
+    - Shoes
+    - Elderberries
+
