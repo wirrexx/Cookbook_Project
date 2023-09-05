@@ -1,7 +1,7 @@
 # Cookbook_Project
  # Favorite Fruits
     - Apples
-    - Bananars
+    - Bananas
     - Cherries
     - Shoes
     - Elderberries
